@@ -1,6 +1,6 @@
 # JumpQuest
 
-Welcome to JumpQuest, a fun and challenging Unity game where you must jump and collect objects levitating.
+Welcome to JumpQuest, a fun and challenging Unity game where you must jump and collect objects levitating. The code can be found inside Scripts folder in Assests directory.
 
 ## How to Play
 
